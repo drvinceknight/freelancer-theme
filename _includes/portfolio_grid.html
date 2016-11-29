@@ -6,12 +6,7 @@
                 {% for post in site.posts %}
                     <div class="col-sm-4 portfolio-item">
                         <h2 align="center">{{post.title}}</h2>
-                        <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
-                            <div class="caption">
-                                <div class="caption-content">
-                                    <i class="fa fa-search-plus fa-3x"></i>
-                                </div>
-                            </div>
+                        <a href="/#activity-{{ post.modal-id }}">
                             <img src="img/activities/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
                         </a>
                     </div>

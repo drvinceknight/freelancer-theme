@@ -1,0 +1,10 @@
+{% for post in site.posts %}
+
+    <div class="modal-body">
+        <div align="center">
+            <h2 id="activity-{{ post.modal-id }}" >{{post.title}}</h2>
+        </div>
+        <p>{{post.content}}</p>
+    </div>
+
+{% endfor %}
