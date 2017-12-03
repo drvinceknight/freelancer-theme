@@ -13,6 +13,8 @@ This activity is intended for later high school years and introduces students to
 the mathematics behind evolution. In particular using probability and Moran
 processes.
 
+**Requires multiple multi sided dice.**
+
 1. Describe the Moran process image on the slides;
 2. Ask for an explanation about the equations.
 3. Ask what might be wrong about this assumption? (In particular that all
