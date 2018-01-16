@@ -6,9 +6,9 @@ img: playing-games.png
 alt: "An introduction to game theory using the Prisoners Dilemma."
 ---
 
-- [Slides]({{site.baseurl}}/assets/playing-games/tex/main.pdf)
-- [Forms]({{site.baseurl}}/assets/playing-games/tex/form.pdf)
-- [Signs]({{site.baseurl}}/assets/playing-games/tex/sign.pdf)
+- [Slides]({{site.baseurl}}/assets/playing-games/tex/main.pdf) ([cy]({{site.baseurl}}/assets/playing-games/tex/main-cy.pdf))
+- [Forms]({{site.baseurl}}/assets/playing-games/tex/form.pdf) ([cy]({{site.baseurl}}/assets/playing-games/tex/form-cy.pdf))
+- [Signs]({{site.baseurl}}/assets/playing-games/tex/sign.pdf) ([cy]({{site.baseurl}}/assets/playing-games/tex/sign-cy.pdf))
 
 An activity during which students are introduced to game theory by playing
 games.
